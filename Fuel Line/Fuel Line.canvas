@@ -1,12 +1,12 @@
 {
 	"nodes":[
-		{"id":"7e8b24841f1c69f4","type":"file","file":"Omnian Gregory/Fuel Line/ChemR-Diluted Acid.md","x":310,"y":-268,"width":510,"height":368},
-		{"id":"3267d5a234448693","type":"file","file":"Omnian Gregory/Fuel Line/ChemR-Light Fuel.md","x":-320,"y":-280,"width":480,"height":380},
-		{"id":"469cc151342467c7","type":"file","file":"Omnian Gregory/Fuel Line/Electrolyser-Water.md","x":-840,"y":-280,"width":380,"height":380},
-		{"id":"40a347b1b514c18f","type":"file","file":"Omnian Gregory/Fuel Line/ChemR-Heavy Fuel.md","x":-320,"y":180,"width":480,"height":400},
-		{"id":"9269996cbc10f295","type":"file","file":"Omnian Gregory/Fuel Line/Electric Blast Furnace.md","x":-810,"y":210,"width":320,"height":340},
-		{"id":"45e783a82060ca9f","type":"file","file":"Omnian Gregory/Fuel Line/ChemR-Diesel.md","x":395,"y":180,"width":340,"height":400},
-		{"id":"42c2787abc20b267","type":"file","file":"Omnian Gregory/Fuel Line/Distillery-Acid.md","x":1000,"y":-268,"width":320,"height":368}
+		{"id":"7e8b24841f1c69f4","type":"file","file":"Fuel Line/ChemR-Diluted Acid.md","x":310,"y":-268,"width":510,"height":368},
+		{"id":"3267d5a234448693","type":"file","file":"Fuel Line/ChemR-Light Fuel.md","x":-320,"y":-280,"width":480,"height":380},
+		{"id":"469cc151342467c7","type":"file","file":"Fuel Line/Electrolyser-Water.md","x":-840,"y":-280,"width":380,"height":380},
+		{"id":"40a347b1b514c18f","type":"file","file":"Fuel Line/ChemR-Heavy Fuel.md","x":-320,"y":180,"width":480,"height":400},
+		{"id":"9269996cbc10f295","type":"file","file":"Fuel Line/Electric Blast Furnace.md","x":-810,"y":210,"width":320,"height":340},
+		{"id":"45e783a82060ca9f","type":"file","file":"Fuel Line/ChemR-Diesel.md","x":395,"y":180,"width":340,"height":400},
+		{"id":"42c2787abc20b267","type":"file","file":"Fuel Line/Distillery-Acid.md","x":1000,"y":-268,"width":320,"height":368}
 	],
 	"edges":[
 		{"id":"988e608250cb41c1","fromNode":"469cc151342467c7","fromSide":"right","toNode":"3267d5a234448693","toSide":"left","color":"#a07373","label":"Conveyor"},
