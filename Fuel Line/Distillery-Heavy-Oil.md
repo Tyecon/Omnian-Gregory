@@ -1,5 +1,7 @@
 ---
-Status: Not Started
+Status: ""
+tags: Soon
+Tasks: Craft
 ---
 ## Input
 Raw Oil

@@ -1,5 +1,7 @@
 ---
-Status: Not Started
+Status: ""
+tags: Soon
+Tasks: Craft
 ---
 ## Input
 60L Diluted Sulphuric Acid [[ChemR-Diluted Acid]]

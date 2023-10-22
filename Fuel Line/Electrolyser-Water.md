@@ -1,6 +1,6 @@
 ---
-Status: In Progress
-Tasks: Needs to be moved
+tags: Active
+Tasks: Move
 ---
 ## Input
 2x Empty Cell [[ChemR-Diluted Acid]]

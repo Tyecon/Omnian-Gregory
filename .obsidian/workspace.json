@@ -16,8 +16,24 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "615392f1509cca36",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Fuel Line/Fuel Line Plan.canvas",
+                "viewState": {
+                  "x": 240,
+                  "y": 150,
+                  "zoom": -0.9338476649950729
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fuel Line/Fuel Line Plan.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fuel Line/Fuel Line Plan.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fuel Line/Fuel Line Plan.canvas"
+              }
             }
           },
           {
@@ -132,13 +152,21 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "936e7fa9ab13e529",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 354.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -153,8 +181,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2652133c6f1a54ab",
+  "active": "615392f1509cca36",
   "lastOpenFiles": [
+    "README.md",
+    "Base Map.md",
+    "Base Drawing.md",
+    "Fuel Line/Fuel Line Plan.canvas",
+    "Fuel Line/Electrolyser-Water.md",
     "Fuel Line/Distillery-Heavy-Oil.md",
     "Fuel Line/ChemR-Heavy Fuel.md",
     "Fuel Line/Distillery-Oil.md",
@@ -163,11 +196,8 @@
     "Fuel Line/ChemR-Diluted Acid.md",
     "Fuel Line/ChemR-Light Fuel.md",
     "Fuel Line/Electric Blast Furnace.md",
-    "Fuel Line/Electrolyser-Water.md",
-    "Fuel Line/Fuel Line Plan.canvas",
     "Untitled Kanban.md",
     "Fuel Line",
-    "Untitled.md",
     "ChemR-Light Fuelc.md",
     "ChemR-Diluted.md",
     "Omnian Gregory",

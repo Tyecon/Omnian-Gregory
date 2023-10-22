@@ -4,5 +4,8 @@
   "alwaysUpdateLinks": true,
   "showInlineTitle": true,
   "attachmentFolderPath": "./",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "propertiesInDocument": "source",
+  "defaultViewMode": "source",
+  "livePreview": true
 }

@@ -22,14 +22,17 @@
               "Tasks"
             ],
             "columns": {
-              "Not started": {
+              "Soon": {
                 "weight": 0
               },
-              "In Progress": {
+              "Active": {
                 "weight": 1
+              },
+              "Archive": {
+                "weight": 2
               }
             },
-            "groupByField": "Status"
+            "groupByField": "tags"
           },
           "filter": {
             "conditions": []
@@ -39,19 +42,37 @@
               {
                 "color": "#cc0000",
                 "condition": {
-                  "field": "Status",
+                  "field": "tags",
                   "operator": "is",
                   "enabled": true,
-                  "value": "Not Started"
+                  "value": "Soon"
                 }
               },
               {
-                "color": "#becc00",
+                "color": "#cc6600",
                 "condition": {
-                  "field": "Status",
+                  "field": "tags",
                   "operator": "is",
                   "enabled": true,
-                  "value": "In Progress"
+                  "value": "Active"
+                }
+              },
+              {
+                "color": "#cccc00",
+                "condition": {
+                  "field": "tags",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "Routine"
+                }
+              },
+              {
+                "color": "#00cc00",
+                "condition": {
+                  "field": "tags",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "Archive"
                 }
               }
             ]

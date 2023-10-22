@@ -1,5 +1,7 @@
 ---
-Status: Not Started
+Status: ""
+tags: Soon
+Tasks: Craft
 ---
 ## Input
 Hydrogen Sulphide Cell [[ChemR-Light Fuel]] & [[ChemR-Heavy Fuel]]

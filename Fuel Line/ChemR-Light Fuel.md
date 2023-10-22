@@ -1,6 +1,7 @@
 ---
-Status: In Progress
-Tasks: Needs to be moved
+Status: ""
+Tasks: Move
+tags: Active
 ---
 ## Input
 2x Hydrogen Cell [[Electrolyser-Water]]

@@ -1,5 +1,7 @@
 ---
-Status: Not Started
+Status: ""
+tags: Soon
+Tasks: Craft
 ---
 ## Input
 5x Light Fuel [[ChemR-Light Fuel]]

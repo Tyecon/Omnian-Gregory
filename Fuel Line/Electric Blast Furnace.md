@@ -1,6 +1,7 @@
 ---
-Status: In Progress
-Tasks: Needs Upgrade
+Status: ""
+Tasks: Upgrade
+tags: Active
 ---
 ## Input
 Metal / Dust
