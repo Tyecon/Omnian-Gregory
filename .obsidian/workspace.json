@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "60b7ca452f6a1464",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0a3292b024beb49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2652133c6f1a54ab",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "f923dcf2b2134ebb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fuel Line/ChemR-Light Fuel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "149c8908bc9d7c12",
+    "type": "split",
+    "children": [
+      {
+        "id": "05fe9aad501df0e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b114ef3d5f575992",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "8e947ea8cebfe059",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8e2ef0d28dea96f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 201.5
+  },
+  "right": {
+    "id": "b40d69a67f5c3fcb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8e6e25894741f53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c980a190db537e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7b6a4bfd42780fc8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2cda14447094f6d5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8fdacd9ccb6ca651",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "b62f088a15385e86",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templates:Insert template": false,
+      "canvas:Create new canvas": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "daily-notes:Open today's daily note": false,
+      "obsidian-projects:Open projects": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2652133c6f1a54ab",
+  "lastOpenFiles": [
+    "Fuel Line/ChemR-Light Fuel.md",
+    "Fuel Line/Electric Blast Furnace.md",
+    "Fuel Line/Electrolyser-Water.md",
+    "Fuel Line/Fuel Line Plan.canvas",
+    "Fuel Line/ChemR-Diluted Acid.md",
+    "Untitled Kanban.md",
+    "Fuel Line",
+    "Fuel Line/Distillery-Heavy-Oil.md",
+    "Fuel Line/Distillery-Oil.md",
+    "Untitled.md",
+    "ChemR-Light Fuelc.md",
+    "Fuel Line/Distillery-Acid.md",
+    "Fuel Line/ChemR-Heavy Fuel.md",
+    "Fuel Line/ChemR-Diesel.md",
+    "ChemR-Diluted.md",
+    "Omnian Gregory",
+    "ChemR.md",
+    "Fuel Line.md"
+  ]
+}

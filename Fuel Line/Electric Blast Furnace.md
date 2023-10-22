@@ -1,3 +1,6 @@
+---
+Status: Needs Upgrade
+---
 ## Input
 Metal / Dust
 Oxygen [[Electrolyser-Water]]

@@ -1,1 +1,7 @@
-*.obsidian
+.obsidian/icons/
+.obsidian/themes/
+.obsidian/plugins/icon-folder/
+.obsidian/appearance.json
+.obsidian/hotkeys.json
+.trash/
+.DS_Store
