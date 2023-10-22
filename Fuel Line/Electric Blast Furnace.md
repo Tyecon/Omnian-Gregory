@@ -1,5 +1,6 @@
 ---
-Status: Needs Upgrade
+Status: In Progress
+Tasks: Needs Upgrade
 ---
 ## Input
 Metal / Dust

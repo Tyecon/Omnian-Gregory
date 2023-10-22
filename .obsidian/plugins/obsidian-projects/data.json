@@ -21,13 +21,40 @@
             "includeFields": [
               "Tasks"
             ],
+            "columns": {
+              "Not started": {
+                "weight": 0
+              },
+              "In Progress": {
+                "weight": 1
+              }
+            },
             "groupByField": "Status"
           },
           "filter": {
             "conditions": []
           },
           "colors": {
-            "conditions": []
+            "conditions": [
+              {
+                "color": "#cc0000",
+                "condition": {
+                  "field": "Status",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "Not Started"
+                }
+              },
+              {
+                "color": "#becc00",
+                "condition": {
+                  "field": "Status",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "In Progress"
+                }
+              }
+            ]
           },
           "sort": {
             "criteria": []

@@ -16,18 +16,6 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "f923dcf2b2134ebb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fuel Line/ChemR-Light Fuel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -167,20 +155,20 @@
   },
   "active": "2652133c6f1a54ab",
   "lastOpenFiles": [
+    "Fuel Line/Distillery-Heavy-Oil.md",
+    "Fuel Line/ChemR-Heavy Fuel.md",
+    "Fuel Line/Distillery-Oil.md",
+    "Fuel Line/Distillery-Acid.md",
+    "Fuel Line/ChemR-Diesel.md",
+    "Fuel Line/ChemR-Diluted Acid.md",
     "Fuel Line/ChemR-Light Fuel.md",
     "Fuel Line/Electric Blast Furnace.md",
     "Fuel Line/Electrolyser-Water.md",
     "Fuel Line/Fuel Line Plan.canvas",
-    "Fuel Line/ChemR-Diluted Acid.md",
     "Untitled Kanban.md",
     "Fuel Line",
-    "Fuel Line/Distillery-Heavy-Oil.md",
-    "Fuel Line/Distillery-Oil.md",
     "Untitled.md",
     "ChemR-Light Fuelc.md",
-    "Fuel Line/Distillery-Acid.md",
-    "Fuel Line/ChemR-Heavy Fuel.md",
-    "Fuel Line/ChemR-Diesel.md",
     "ChemR-Diluted.md",
     "Omnian Gregory",
     "ChemR.md",

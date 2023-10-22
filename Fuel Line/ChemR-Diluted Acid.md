@@ -1,3 +1,6 @@
+---
+Status: Not Started
+---
 ## Input
 Hydrogen Sulphide Cell [[ChemR-Light Fuel]] & [[ChemR-Heavy Fuel]]
 1kL Water (Piped)
