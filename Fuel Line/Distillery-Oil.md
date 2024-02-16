@@ -6,4 +6,4 @@ tags: Active
 ## Input
 Oil
 ## Output
-Sulpheric Light Fuel [[ChemR-Light Fuel]]
+Sulpheric Light Fuel [[ChemR-Fuel]]

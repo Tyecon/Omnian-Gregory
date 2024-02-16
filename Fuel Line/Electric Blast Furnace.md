@@ -6,4 +6,6 @@ tags: Active
 ## Input
 Metal / Dust
 Oxygen [[Electrolyser-Water]]
-Unless Electrolyser fluid output disabled for other gases
+Electrolyser Item Out=Oxygen
+Electrolyser Fluid Out=Hydrogen
+Both Off=Other

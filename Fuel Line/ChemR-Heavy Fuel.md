@@ -9,4 +9,4 @@ Tasks: Craft
 
 ## Output
 Hydrogen Sulfide Cell [[ChemR-Diluted Acid]]
-12kL Heavy Fuel [[ChemR-Diesel]]
+12kL Heavy Fuel [[Mixer (MV)-Diesel]]

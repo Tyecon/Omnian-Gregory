@@ -1,24 +1,22 @@
 {
 	"nodes":[
-		{"id":"40a347b1b514c18f","type":"file","file":"Fuel Line/ChemR-Heavy Fuel.md","x":-320,"y":180,"width":480,"height":400},
-		{"id":"469cc151342467c7","type":"file","file":"Fuel Line/Electrolyser-Water.md","x":-1000,"y":-280,"width":480,"height":380},
-		{"id":"7e8b24841f1c69f4","type":"file","file":"Fuel Line/ChemR-Diluted Acid.md","x":360,"y":-268,"width":550,"height":368},
-		{"id":"42c2787abc20b267","type":"file","file":"Fuel Line/Distillery-Acid.md","x":1160,"y":-268,"width":320,"height":368},
-		{"id":"45e783a82060ca9f","type":"file","file":"Fuel Line/ChemR-Diesel.md","x":465,"y":180,"width":340,"height":400},
-		{"id":"3267d5a234448693","type":"file","file":"Fuel Line/ChemR-Light Fuel.md","x":-320,"y":-280,"width":480,"height":380},
-		{"id":"9269996cbc10f295","type":"file","file":"Fuel Line/Electric Blast Furnace.md","x":-920,"y":210,"width":320,"height":340}
+		{"id":"469cc151342467c7","type":"file","file":"Fuel Line/Electrolyser-Water.md","x":-1000,"y":-362,"width":480,"height":462},
+		{"id":"9269996cbc10f295","type":"file","file":"Fuel Line/Electric Blast Furnace.md","x":-920,"y":360,"width":320,"height":400},
+		{"id":"68a025f112f708ed","type":"file","file":"Fuel Line/Water.md","x":-1420,"y":360,"width":280,"height":400},
+		{"id":"a9f3522ba64238d6","type":"file","file":"Fuel Line/Canner-Water.md","x":-1420,"y":-291,"width":280,"height":391},
+		{"id":"7e8b24841f1c69f4","type":"file","file":"Fuel Line/ChemR-Diluted Acid.md","x":-1920,"y":-291,"width":390,"height":391},
+		{"id":"42c2787abc20b267","type":"file","file":"Fuel Line/Distillery-Acid.md","x":-2480,"y":-291,"width":400,"height":391},
+		{"id":"3267d5a234448693","type":"file","file":"Fuel Line/ChemR-Fuel.md","x":-2960,"y":-291,"width":360,"height":451},
+		{"id":"45e783a82060ca9f","type":"file","file":"Fuel Line/Mixer (MV)-Diesel.md","x":-3320,"y":-291,"width":280,"height":371}
 	],
 	"edges":[
-		{"id":"988e608250cb41c1","fromNode":"469cc151342467c7","fromSide":"right","toNode":"3267d5a234448693","toSide":"left","color":"#a07373","label":"Conveyor"},
-		{"id":"7806342a80b48f28","fromNode":"469cc151342467c7","fromSide":"bottom","toNode":"9269996cbc10f295","toSide":"top","color":"#004f99","label":"Fluid Output"},
-		{"id":"c8b2fe99e4691b78","fromNode":"3267d5a234448693","fromSide":"right","toNode":"7e8b24841f1c69f4","toSide":"left","color":"#a16868","label":"Conveyor"},
-		{"id":"d333a456ac459198","fromNode":"3267d5a234448693","fromSide":"top","toNode":"469cc151342467c7","toSide":"top","label":"Filter: Empty Cell"},
-		{"id":"ca3dfabd21a7dfb1","fromNode":"7e8b24841f1c69f4","fromSide":"top","toNode":"469cc151342467c7","toSide":"top"},
-		{"id":"60a4958ae2083875","fromNode":"469cc151342467c7","fromSide":"right","toNode":"40a347b1b514c18f","toSide":"left","color":"#a56f6f"},
-		{"id":"6e6620a3c02856b5","fromNode":"40a347b1b514c18f","fromSide":"right","toNode":"7e8b24841f1c69f4","toSide":"left","color":"#b87a7a"},
-		{"id":"ec6ed8a48135dd8f","fromNode":"3267d5a234448693","fromSide":"bottom","toNode":"45e783a82060ca9f","toSide":"top","color":"#fafe16"},
-		{"id":"a360b1cf7bc118fc","fromNode":"7e8b24841f1c69f4","fromSide":"right","toNode":"42c2787abc20b267","toSide":"left","color":"#8c5b3b","label":"Fluid Output"},
-		{"id":"29683ee8ea371836","fromNode":"40a347b1b514c18f","fromSide":"top","toNode":"45e783a82060ca9f","toSide":"top","color":"3"},
-		{"id":"71c0db12c5759684","fromNode":"40a347b1b514c18f","fromSide":"top","toNode":"469cc151342467c7","toSide":"top"}
+		{"id":"7806342a80b48f28","fromNode":"469cc151342467c7","fromSide":"bottom","toNode":"9269996cbc10f295","toSide":"top","fromEnd":"arrow","color":"5","label":"Conveyor on Hatch (Export allow Input)\nOutput Items allow Input\n(Screwdriver the Machine Output)\nWrench Output Toward Hatch\n"},
+		{"id":"ec6ed8a48135dd8f","fromNode":"3267d5a234448693","fromSide":"top","toNode":"45e783a82060ca9f","toSide":"top","color":"#fafe16","label":"Item Pipes"},
+		{"id":"a360b1cf7bc118fc","fromNode":"7e8b24841f1c69f4","fromSide":"left","toNode":"42c2787abc20b267","toSide":"right","color":"#8c5b3b","label":"Pump"},
+		{"id":"c971287b5de83f05","fromNode":"68a025f112f708ed","fromSide":"top","toNode":"a9f3522ba64238d6","toSide":"bottom","color":"5"},
+		{"id":"50d58025867af289","fromNode":"68a025f112f708ed","fromSide":"top","toNode":"469cc151342467c7","toSide":"left","color":"5"},
+		{"id":"03c1c1295debf97a","fromNode":"a9f3522ba64238d6","fromSide":"left","toNode":"7e8b24841f1c69f4","toSide":"right","fromEnd":"arrow"},
+		{"id":"119b2af47b7402d8","fromNode":"3267d5a234448693","fromSide":"top","toNode":"7e8b24841f1c69f4","toSide":"top","color":"#ff7452"},
+		{"id":"eaa0e257700fcf33","fromNode":"469cc151342467c7","fromSide":"top","toNode":"3267d5a234448693","toSide":"top","color":"2","label":"Pumps into Nonuple Pipe"}
 	]
 }

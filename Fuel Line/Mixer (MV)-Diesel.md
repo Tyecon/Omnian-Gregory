@@ -4,7 +4,7 @@ tags: Soon
 Tasks: Craft
 ---
 ## Input
-60L Diluted Sulphuric Acid
-Circuit 1
+5x Light Fuel
+1x Heavy Fuel
 ## Output
-40L Sulphuric Acid
+6x Diesel Fuel
